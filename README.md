@@ -1,3 +1,5 @@
+# Critical Role of local Monte Carlo steps in machine-learning-driven Sequential Tempering
+
 This is the companion directory for the paper "Critical Role of local Monte Carlo steps in machine-learning-driven Sequential Tempering".
 It includes the notebook used to create Figure 1.
 In particular, the notebook:
