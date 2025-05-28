@@ -10,8 +10,4 @@ The directory is organized as follows:
 - Data: contains some of the data required to make the plots (in particular those that require long time to be generated)
 - Plots: contains the different plots shown in the article
 
-- Generates the probability transition matrix for the local Metropolis MC
-- Uses Thomas' algorithm to find the average first-passage times
-- Compares the average times required to obtain a configuration of magnetization $|m| \geq |m^*|$ using only global MADE moves and MADE + local Metropolis moves
-
-This directory does not contain the code to solve the integral equations that appear in the article. These can be straightforwardly solved using e.g. Mathematica.
+This directory does not contain the code to solve the integral equations that appear in the article. These can be straightforwardly solved using other software (e.g. Mathematica).
