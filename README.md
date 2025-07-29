@@ -11,3 +11,16 @@ The directory is organized as follows:
 - Plots: contains the different plots shown in the article
 
 This directory does not contain the code to solve the integral equations that appear in the article. These can be straightforwardly solved using other software (e.g. Mathematica).
+
+## Citation
+
+If you use this code, please cite the corresponding paper:
+
+```bibtex
+@article{del2025performance,
+  title     = {On the performance of machine-learning assisted Monte Carlo in sampling from simple statistical physics models},
+  author    = {Del Bono, Luca Maria and Ricci‑Tersenghi, Federico and Zamponi, Francesco},
+  journal   = {arXiv preprint arXiv:2505.22598},
+  year      = {2025},
+  url       = {https://arxiv.org/abs/2505.22598}
+}
