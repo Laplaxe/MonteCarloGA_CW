@@ -1,6 +1,6 @@
 # On the performance of machine-learning assisted Monte Carlo in sampling from simple statistical physics models 
 
-This is the companion directory for the paper "On the performance of machine-learning assisted Monte Carlo in sampling from simple statistical physics models ".
+This is the companion directory for the paper "On the performance of machine-learning assisted Monte Carlo in sampling from simple statistical physics models".
 It includes the notebook used to create the different figures.
 The directory is organized as follows:
 
